@@ -1,0 +1,8 @@
+{
+  "name": "RBT Training Portal",
+  "description": "A comprehensive 10-day interactive training platform for RBT retail employees featuring video lessons, AI-assisted learning, and progress tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
